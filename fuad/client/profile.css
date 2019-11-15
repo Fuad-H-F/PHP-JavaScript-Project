@@ -1,0 +1,63 @@
+body{
+	margin: 0;
+	background: green;
+}
+.heading{
+	padding: 10px;
+}
+.heading h2{
+	margin-top: 8px;
+	color: red;
+	font-size: 30px;
+	padding: 17px;
+}
+.heading input{
+	margin-bottom:10px;
+	margin-left: 0px;
+	padding: 5px;
+	border-radius:3px;
+	font-size: 15px;
+}
+.heading input[type=submit]{
+	margin-bottom: 10px;
+	padding: 6px;
+	background: #3B5998;
+	color: #000;
+	border-radius: 5px;
+}
+.heading input[type=submit]:hover{
+	cursor: pointer;
+	background: #3B3B3B;
+	color: #fff;
+}
+.heading a{
+	text-decoration: none;
+	margin: 8px;
+	margin-bottom: 3px;
+	padding: 5px;
+	padding-top: 3px;
+	color: red;
+	border-radius: 3px;
+}
+.heading td a:hover{
+	background: #3B5998;
+	color: #fff;
+	border-radius: 3px;
+}
+.main-section td{
+	color: #fff;
+	font-size: 18px;
+	
+}
+.main-section form input{
+	margin-top:2px;
+	padding: 3px;
+	border-radius:2px;
+	color: #fff;
+	background: #3B3B3B;
+}
+.main-section form input:hover{
+	cursor: pointer;
+	background: #3B5998;
+	color: #fff;
+}

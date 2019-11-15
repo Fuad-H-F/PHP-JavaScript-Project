@@ -1,0 +1,1 @@
+    <img src="<?=$row2['image_path_1']?>" alt="image.jpg" width="300px" height="300px"

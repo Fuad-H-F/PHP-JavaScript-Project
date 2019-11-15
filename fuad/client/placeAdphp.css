@@ -1,0 +1,97 @@
+body{
+	margin: 0;
+	background: blue;
+}
+.heading-section{
+	width: 20%;
+}
+.mid-section{
+	width: 55%;
+}
+.heading-section h2{
+	padding: 5px;
+	color: red;
+	width: 20%;
+	float: left;
+	display: inline-block;
+	text-align: center;
+}
+
+.heading-section input{
+	margin-top:10px;
+	margin-bottom:10px;
+	padding:5px;
+	border-radius:3px;
+}
+
+.heading-section input{
+	margin-top:12px;
+	margin-bottom:10px;
+	margin-left: 0px;
+	padding:5px;
+	border-radius:3px;
+}
+
+.heading-section form input{
+	padding: 5px;
+	cursor:pointer;
+}
+.heading-section a{
+	margin-top: 10px;
+	padding-left: 20px;
+	text-decoration: none;
+	font-size: 20px;
+	color: red;
+}
+.heading-section a:hover{
+	color: #fff;
+	background: #000;
+	margin-top:12px;
+	margin-bottom:10px;
+	margin-left: 0px;
+	padding:5px;
+	border-radius:3px;
+}
+.mid-section td{
+	color: #3B5998;
+}
+
+.mid-section form input{
+	padding: 5px;
+	margin: 10px;
+	color: #3B5998;
+	border-radius:3px;
+}
+.mid-section form input:hover{
+	cursor: pointer;
+	background: #3B5998;;
+	color: #fff;
+}
+
+.mid-section a{
+	text-decoration: none;
+	margin: 5px;
+	padding: 5px;
+	color: #3B5998;
+	border-radius: 3px;
+}
+.mid-section td{
+	padding: 5px;
+	margin: 10px;
+	color:  #fff;
+}
+.mid-section td select{
+	padding: 2px;
+	color:  #3B5998;
+}
+.mid-section td a{
+	text-decoration: none;
+	color: #3B5998;
+	padding: 5px;
+	font-size: 20px;
+}
+.mid-section td a:hover{
+	background: #3B5998;
+	color: #fff;
+	border-radius: 3px;
+}

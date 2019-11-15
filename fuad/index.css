@@ -1,0 +1,89 @@
+body{
+	margin: 0;
+	background: #3B5998;
+}
+.heading-section br{
+	font-size: 25px;
+	color: #fff;
+}
+
+.heading-section{
+	background: #3B5998;
+}
+.form1{
+	padding: 20px;
+	margin: 5px;
+}
+.form1 label{
+	padding: 5px;
+	color: #fff;
+	font-size: 18px;
+}
+.form1 input{
+	margin-top:5px;
+	margin-bottom:10px;
+	margin-left: 0px;
+	padding: 3px;
+	border-radius:3px;
+}
+.submit{
+	float: right;
+	padding-left: 10px;
+	padding-right: 10px;
+	display: inline-block;
+}
+.submit input{
+	background: #3B5998;
+	color: #fff;
+	border-color: #000;
+}
+.submit input:hover{
+	cursor: pointer;
+	background: #3B3B3B;
+	color: #fff;
+}
+.description{
+	padding: 10px;
+}
+.description h1{
+		color: #3B5998;
+		font-size: 30px;
+}
+.description p{
+	color: #3B3B3B;
+}
+.form1{
+	padding: 10px;
+}
+.form1 h1,hr{
+	text-align: center;
+	font-size: 30px;
+	color: #3B5998;
+}.form1 label{
+	color: #3B3B3B;
+	font-size: 18px;
+	padding: 5px;
+}
+.form1 input{
+	margin-top:2px;
+	padding: 3px;
+	border-radius:2px;
+}
+.form1 input[type=submit]{
+	margin: 2px;
+	padding: 5px;
+	background: #3B5998;
+	color: #000;
+	border-radius: 3px;
+}
+.form1 input[type=checkbox]{
+	color: #3B5998;
+	padding: 5px;
+	margin: 2px;
+}
+.form1 input[type=submit]:hover{
+	cursor: pointer;
+	background: #3B3B3B;
+	color: #fff;
+}
+
